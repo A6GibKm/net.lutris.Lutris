@@ -42,8 +42,7 @@ add-extensions:
 
   org.freedesktop.Platform.GL32:
     directory: lib/i386-linux-gnu/GL
-    version: "1.4"
-    versions: "19.08beta;1.4"
+    version: "19.08"
     subdirectories: true
     no-autodownload: true
     autodelete: false
